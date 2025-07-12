@@ -25,3 +25,4 @@
 |18  |Maximum Path Sum I|[📄](pe/18.md)|[✓](pe/18.py)|
 |20  |Factorial Digit Sum|[📄](pe/20.md)|[✓](pe/20.py)|
 |25  |1000-digit Fibonacci Number|[📄](pe/25.md)|[✓](pe/25.py)|
+|67  |Maximum Path Sum II|[📄](pe/67.md)|[✓](pe/67.py)|
