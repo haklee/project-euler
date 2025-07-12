@@ -18,6 +18,7 @@
 |6   |Sum Square Difference|[📄](pe/6.md)|[✓](pe/6.py)|
 |7   |10 001st Prime|[📄](pe/7.md)|[✓](pe/7.py)|
 |8   |Largest Product in a Series|[📄](pe/8.md)|[✓](pe/8.py)|
+|9   |Special Pythagorean Triplet|[📄](pe/9.md)|[✓](pe/9.py)|
 |13  |Large Sum|[📄](pe/13.md)|[✓](pe/13.py)|
 |16  |Power Digit Sum|[📄](pe/16.md)|[✓](pe/16.py)|
 |25  |1000-digit Fibonacci Number|[📄](pe/25.md)|[✓](pe/25.py)|
