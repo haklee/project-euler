@@ -4,6 +4,8 @@
 
 ![pe-badge](https://projecteuler.net/profile/haklee.png)
 
+- Add me to your friends list with: `2256332_m1HNj1ALZBWdJzzk2iNgHrQr4cnr7A0c`
+
 ## progress
 
 | #  | Name | Explanation | py |
