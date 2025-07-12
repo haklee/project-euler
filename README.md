@@ -17,3 +17,4 @@
 |5   |Smallest Multiple|[📄](pe/5.md)|[✓](pe/5.py)|
 |6   |Sum Square Difference|[📄](pe/6.md)|[✓](pe/6.py)|
 |13  |Large Sum|[📄](pe/13.md)|[✓](pe/13.py)|
+|16  |Power Digit Sum|[📄](pe/16.md)|[✓](pe/16.py)|
