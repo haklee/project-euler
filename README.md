@@ -10,3 +10,4 @@
 |----|------|-------------|----|
 |1   |Multiples of 3 or 5|[📄](pe/1.md)|[✓](pe/1.py)|
 |2   |Even Fibonacci Numbers|[📄](pe/2.md)|[✓](pe/2.py)|
+|3   |Largest Prime Factor|[📄](pe/3.md)|[✓](pe/3.py)|
