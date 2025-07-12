@@ -22,4 +22,5 @@
 |10   |Summation of Primes|[📄](pe/10.md)|[✓](pe/10.py)|
 |13  |Large Sum|[📄](pe/13.md)|[✓](pe/13.py)|
 |16  |Power Digit Sum|[📄](pe/16.md)|[✓](pe/16.py)|
+|20  |Factorial Digit Sum|[📄](pe/20.md)|[✓](pe/20.py)|
 |25  |1000-digit Fibonacci Number|[📄](pe/25.md)|[✓](pe/25.py)|
