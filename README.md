@@ -15,3 +15,4 @@
 |3   |Largest Prime Factor|[📄](pe/3.md)|[✓](pe/3.py)|
 |4   |Largest Palindrome Product|[📄](pe/4.md)|[✓](pe/4.py)|
 |5   |Smallest Multiple|[📄](pe/5.md)|[✓](pe/5.py)|
+|6   |Sum Square Difference|[📄](pe/6.md)|[✓](pe/6.py)|
