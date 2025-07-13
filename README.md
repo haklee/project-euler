@@ -19,8 +19,9 @@
 |7   |10 001st Prime|[📄](pe/7.md)|[✓](pe/7.py)|
 |8   |Largest Product in a Series|[📄](pe/8.md)|[✓](pe/8.py)|
 |9   |Special Pythagorean Triplet|[📄](pe/9.md)|[✓](pe/9.py)|
-|10   |Summation of Primes|[📄](pe/10.md)|[✓](pe/10.py)|
+|10  |Summation of Primes|[📄](pe/10.md)|[✓](pe/10.py)|
 |13  |Large Sum|[📄](pe/13.md)|[✓](pe/13.py)|
+|15  |Lattice Paths|[📄](pe/15.md)|[✓](pe/15.py)|
 |16  |Power Digit Sum|[📄](pe/16.md)|[✓](pe/16.py)|
 |18  |Maximum Path Sum I|[📄](pe/18.md)|[✓](pe/18.py)|
 |20  |Factorial Digit Sum|[📄](pe/20.md)|[✓](pe/20.py)|
