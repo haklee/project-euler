@@ -34,3 +34,4 @@
 |30  |Digit Fifth Powers|[📄](pe/30.md)|[✓](pe/30.py)|
 |48  |Self Powers|[📄](pe/48.md)|[✓](pe/48.py)|
 |67  |Maximum Path Sum II|[📄](pe/67.md)|[✓](pe/67.py)|
+|92  |Square Digit Chains|[📄](pe/92.md)|[✓](pe/92.py)|

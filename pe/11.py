@@ -10,6 +10,7 @@ n = 4
 a = [[0] * (n - 1) + [*map(int, i.split())] + [0] * (n - 1) for i in [*open(0)]]
 a = [[0] * len(a[0])] * (n - 1) + a + [[0] * len(a[0])] * (n - 1)
 
+# solve
 sol = 0
 for i in range(len(a) - (n - 1)):
     for j in range(len(a[0]) - (n - 1)):
