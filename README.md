@@ -23,6 +23,7 @@
 |9   |Special Pythagorean Triplet|[📄](pe/9.md)|[✓](pe/9.py)|
 |10  |Summation of Primes|[📄](pe/10.md)|[✓](pe/10.py)|
 |11  |Largest Product in a Grid|[📄](pe/11.md)|[✓](pe/11.py)|
+|12  |Highly Divisible Triangular Number|[📄](pe/12.md)|[✓](pe/12.py)|
 |13  |Large Sum|[📄](pe/13.md)|[✓](pe/13.py)|
 |15  |Lattice Paths|[📄](pe/15.md)|[✓](pe/15.py)|
 |16  |Power Digit Sum|[📄](pe/16.md)|[✓](pe/16.py)|
