@@ -25,6 +25,7 @@
 |11  |Largest Product in a Grid|[📄](pe/11.md)|[✓](pe/11.py)|
 |12  |Highly Divisible Triangular Number|[📄](pe/12.md)|[✓](pe/12.py)|
 |13  |Large Sum|[📄](pe/13.md)|[✓](pe/13.py)|
+|14  |Longest Collatz Sequence|[📄](pe/14.md)|[✓](pe/14.py)|
 |15  |Lattice Paths|[📄](pe/15.md)|[✓](pe/15.py)|
 |16  |Power Digit Sum|[📄](pe/16.md)|[✓](pe/16.py)|
 |18  |Maximum Path Sum I|[📄](pe/18.md)|[✓](pe/18.py)|
