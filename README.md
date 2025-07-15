@@ -28,8 +28,9 @@
 |14  |Longest Collatz Sequence|[📄](pe/14.md)|[✓](pe/14.py)|
 |15  |Lattice Paths|[📄](pe/15.md)|[✓](pe/15.py)|
 |16  |Power Digit Sum|[📄](pe/16.md)|[✓](pe/16.py)|
+|17  |Number Letter Counts|[📄](pe/17.md)|[✓](pe/17.py)|
 |18  |Maximum Path Sum I|[📄](pe/18.md)|[✓](pe/18.py)|
-|18  |Counting Sundays|[📄](pe/19.md)|[✓](pe/19.py)|
+|19  |Counting Sundays|[📄](pe/19.md)|[✓](pe/19.py)|
 |20  |Factorial Digit Sum|[📄](pe/20.md)|[✓](pe/20.py)|
 |25  |1000-digit Fibonacci Number|[📄](pe/25.md)|[✓](pe/25.py)|
 |29  |Distinct Powers|[📄](pe/29.md)|[✓](pe/29.py)|
