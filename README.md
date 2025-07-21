@@ -32,6 +32,7 @@
 |18  |Maximum Path Sum I|[📄](pe/18.md)|[✓](pe/18.py)|
 |19  |Counting Sundays|[📄](pe/19.md)|[✓](pe/19.py)|
 |20  |Factorial Digit Sum|[📄](pe/20.md)|[✓](pe/20.py)|
+|21  |Amicable Numbers|[📄](pe/21.md)|[✓](pe/21.py)|
 |25  |1000-digit Fibonacci Number|[📄](pe/25.md)|[✓](pe/25.py)|
 |29  |Distinct Powers|[📄](pe/29.md)|[✓](pe/29.py)|
 |30  |Digit Fifth Powers|[📄](pe/30.md)|[✓](pe/30.py)|
