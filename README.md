@@ -43,3 +43,4 @@
 |53  |Combinatoric Selections|[📄](pe/53.md)|[✓](pe/53.py)|
 |67  |Maximum Path Sum II|[📄](pe/67.md)|[✓](pe/67.py)|
 |92  |Square Digit Chains|[📄](pe/92.md)|[✓](pe/92.py)|
+|116 |Red, Green or Blue Tiles|[📄](pe/116.md)|[✓](pe/116.py)|
