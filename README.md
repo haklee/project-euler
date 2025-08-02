@@ -47,3 +47,4 @@
 |99  |Largest Exponential|[📄](pe/99.md)|[✓](pe/99.py)|
 |116 |Red, Green or Blue Tiles|[📄](pe/116.md)|[✓](pe/116.py)|
 |117 |Red, Green and Blue Tiles|[📄](pe/117.md)|[✓](pe/117.py)|
+|206 |Concealed Square|[📄](pe/206.md)|[✓](pe/206.py)|
