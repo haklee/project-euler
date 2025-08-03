@@ -34,6 +34,7 @@
 |20  |Factorial Digit Sum|[📄](pe/20.md)|[✓](pe/20.py)|
 |21  |Amicable Numbers|[📄](pe/21.md)|[✓](pe/21.py)|
 |22  |Names Scores|[📄](pe/22.md)|[✓](pe/22.py)|
+|24  |Lexicographic Permutations|[📄](pe/24.md)|[✓](pe/24.py)|
 |25  |1000-digit Fibonacci Number|[📄](pe/25.md)|[✓](pe/25.py)|
 |28  |Number Spiral Diagonals|[📄](pe/28.md)|[✓](pe/28.py)|
 |29  |Distinct Powers|[📄](pe/29.md)|[✓](pe/29.py)|
