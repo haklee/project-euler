@@ -41,6 +41,7 @@
 |29  |Distinct Powers|[📄](pe/29.md)|[✓](pe/29.py)|
 |30  |Digit Fifth Powers|[📄](pe/30.md)|[✓](pe/30.py)|
 |33  |Digit Cancelling Fractions|[📄](pe/33.md)|[✓](pe/33.py)|
+|36  |Double-base Palindromes|[📄](pe/36.md)|[✓](pe/36.py)|
 |40  |Champernowne's Constant|[📄](pe/40.md)|[✓](pe/40.py)|
 |43  |Sub-string Divisibility|[📄](pe/43.md)|[✓](pe/43.py)|
 |48  |Self Powers|[📄](pe/48.md)|[✓](pe/48.py)|
