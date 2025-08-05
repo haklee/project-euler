@@ -46,6 +46,7 @@
 |38  |Pandigital Multiples|[📄](pe/38.md)|[✓](pe/38.py)|
 |40  |Champernowne's Constant|[📄](pe/40.md)|[✓](pe/40.py)|
 |43  |Sub-string Divisibility|[📄](pe/43.md)|[✓](pe/43.py)|
+|47  |Distinct Primes Factors|[📄](pe/47.md)|[✓](pe/47.py)|
 |48  |Self Powers|[📄](pe/48.md)|[✓](pe/48.py)|
 |52  |Permuted Multiples|[📄](pe/52.md)|[✓](pe/52.py)|
 |53  |Combinatoric Selections|[📄](pe/53.md)|[✓](pe/53.py)|
