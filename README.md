@@ -51,6 +51,7 @@
 |52  |Permuted Multiples|[📄](pe/52.md)|[✓](pe/52.py)|
 |53  |Combinatoric Selections|[📄](pe/53.md)|[✓](pe/53.py)|
 |62  |Permuted Multiples|[📄](pe/62.md)|[✓](pe/62.py)|
+|62  |Powerful Digit Counts|[📄](pe/63.md)|[✓](pe/63.py)|
 |67  |Maximum Path Sum II|[📄](pe/67.md)|[✓](pe/67.py)|
 |92  |Square Digit Chains|[📄](pe/92.md)|[✓](pe/92.py)|
 |99  |Largest Exponential|[📄](pe/99.md)|[✓](pe/99.py)|
