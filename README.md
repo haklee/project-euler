@@ -47,6 +47,7 @@
 |40  |Champernowne's Constant|[📄](pe/40.md)|[✓](pe/40.py)|
 |43  |Sub-string Divisibility|[📄](pe/43.md)|[✓](pe/43.py)|
 |48  |Self Powers|[📄](pe/48.md)|[✓](pe/48.py)|
+|52  |Permuted Multiples|[📄](pe/52.md)|[✓](pe/52.py)|
 |53  |Combinatoric Selections|[📄](pe/53.md)|[✓](pe/53.py)|
 |67  |Maximum Path Sum II|[📄](pe/67.md)|[✓](pe/67.py)|
 |92  |Square Digit Chains|[📄](pe/92.md)|[✓](pe/92.py)|
