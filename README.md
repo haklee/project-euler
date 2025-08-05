@@ -50,6 +50,7 @@
 |48  |Self Powers|[📄](pe/48.md)|[✓](pe/48.py)|
 |52  |Permuted Multiples|[📄](pe/52.md)|[✓](pe/52.py)|
 |53  |Combinatoric Selections|[📄](pe/53.md)|[✓](pe/53.py)|
+|55  |Lychrel Numbers|[📄](pe/55.md)|[✓](pe/55.py)|
 |56  |Powerful Digit Sum|[📄](pe/56.md)|[✓](pe/56.py)|
 |62  |Permuted Multiples|[📄](pe/62.md)|[✓](pe/62.py)|
 |63  |Powerful Digit Counts|[📄](pe/63.md)|[✓](pe/63.py)|
