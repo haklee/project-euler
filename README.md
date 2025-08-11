@@ -41,6 +41,7 @@
 |28  |Number Spiral Diagonals|[📄](pe/28.md)|[✓](pe/28.py)|
 |29  |Distinct Powers|[📄](pe/29.md)|[✓](pe/29.py)|
 |30  |Digit Fifth Powers|[📄](pe/30.md)|[✓](pe/30.py)|
+|31  |Coin Sums|[📄](pe/31.md)|[✓](pe/31.py)|
 |33  |Digit Cancelling Fractions|[📄](pe/33.md)|[✓](pe/33.py)|
 |36  |Double-base Palindromes|[📄](pe/36.md)|[✓](pe/36.py)|
 |38  |Pandigital Multiples|[📄](pe/38.md)|[✓](pe/38.py)|
