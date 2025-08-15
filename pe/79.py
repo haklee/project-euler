@@ -1,3 +1,6 @@
+# run like:
+# $ python 79.py < 79.data
+
 import re
 
 a = sorted(list([i.replace("\n", "") for i in open(0)]))
