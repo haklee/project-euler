@@ -43,6 +43,7 @@
 |30  |Digit Fifth Powers|[📄](pe/30.md)|[✓](pe/30.py)|
 |31  |Coin Sums|[📄](pe/31.md)|[✓](pe/31.py)|
 |33  |Digit Cancelling Fractions|[📄](pe/33.md)|[✓](pe/33.py)|
+|34  |Digit Factorials|[📄](pe/34.md)|[✓](pe/34.py)|
 |36  |Double-base Palindromes|[📄](pe/36.md)|[✓](pe/36.py)|
 |38  |Pandigital Multiples|[📄](pe/38.md)|[✓](pe/38.py)|
 |40  |Champernowne's Constant|[📄](pe/40.md)|[✓](pe/40.py)|
