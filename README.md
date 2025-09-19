@@ -38,6 +38,7 @@
 |24  |Lexicographic Permutations|[📄](pe/24.md)|[✓](pe/24.py)|
 |25  |1000-digit Fibonacci Number|[📄](pe/25.md)|[✓](pe/25.py)|
 |26  |Reciprocal Cycles|[📄](pe/26.md)|[✓](pe/26.py)|
+|27  |Quadratic Primes|[📄](pe/27.md)|[✓](pe/27.py)|
 |28  |Number Spiral Diagonals|[📄](pe/28.md)|[✓](pe/28.py)|
 |29  |Distinct Powers|[📄](pe/29.md)|[✓](pe/29.py)|
 |30  |Digit Fifth Powers|[📄](pe/30.md)|[✓](pe/30.py)|
