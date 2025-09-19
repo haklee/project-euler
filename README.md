@@ -49,6 +49,7 @@
 |36  |Double-base Palindromes|[📄](pe/36.md)|[✓](pe/36.py)|
 |37  |Truncatable Primes|[📄](pe/37.md)|[✓](pe/37.py)|
 |38  |Pandigital Multiples|[📄](pe/38.md)|[✓](pe/38.py)|
+|39  |Integer Right Triangles|[📄](pe/39.md)|[✓](pe/39.py)|
 |40  |Champernowne's Constant|[📄](pe/40.md)|[✓](pe/40.py)|
 |42  |Coded Triangle Numbers|[📄](pe/42.md)|[✓](pe/42.py)|
 |43  |Sub-string Divisibility|[📄](pe/43.md)|[✓](pe/43.py)|
