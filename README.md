@@ -47,6 +47,7 @@
 |34  |Digit Factorials|[📄](pe/34.md)|[✓](pe/34.py)|
 |35  |Circular Primes|[📄](pe/35.md)|[✓](pe/35.py)|
 |36  |Double-base Palindromes|[📄](pe/36.md)|[✓](pe/36.py)|
+|37  |Truncatable Primes|[📄](pe/37.md)|[✓](pe/37.py)|
 |38  |Pandigital Multiples|[📄](pe/38.md)|[✓](pe/38.py)|
 |40  |Champernowne's Constant|[📄](pe/40.md)|[✓](pe/40.py)|
 |42  |Coded Triangle Numbers|[📄](pe/42.md)|[✓](pe/42.py)|
