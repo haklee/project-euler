@@ -52,6 +52,7 @@
 |38  |Pandigital Multiples|[📄](pe/38.md)|[✓](pe/38.py)|
 |39  |Integer Right Triangles|[📄](pe/39.md)|[✓](pe/39.py)|
 |40  |Champernowne's Constant|[📄](pe/40.md)|[✓](pe/40.py)|
+|41  |Pandigital Prime|[📄](pe/41.md)|[✓](pe/41.py)|
 |42  |Coded Triangle Numbers|[📄](pe/42.md)|[✓](pe/42.py)|
 |43  |Sub-string Divisibility|[📄](pe/43.md)|[✓](pe/43.py)|
 |45  |Triangular, Pentagonal, and Hexagonal|[📄](pe/45.md)|[✓](pe/45.py)|
