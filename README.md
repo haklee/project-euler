@@ -54,6 +54,7 @@
 |40  |Champernowne's Constant|[📄](pe/40.md)|[✓](pe/40.py)|
 |42  |Coded Triangle Numbers|[📄](pe/42.md)|[✓](pe/42.py)|
 |43  |Sub-string Divisibility|[📄](pe/43.md)|[✓](pe/43.py)|
+|45  |Triangular, Pentagonal, and Hexagonal|[📄](pe/45.md)|[✓](pe/45.py)|
 |47  |Distinct Primes Factors|[📄](pe/47.md)|[✓](pe/47.py)|
 |48  |Self Powers|[📄](pe/48.md)|[✓](pe/48.py)|
 |52  |Permuted Multiples|[📄](pe/52.md)|[✓](pe/52.py)|
