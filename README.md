@@ -43,6 +43,7 @@
 |29  |Distinct Powers|[📄](pe/29.md)|[✓](pe/29.py)|
 |30  |Digit Fifth Powers|[📄](pe/30.md)|[✓](pe/30.py)|
 |31  |Coin Sums|[📄](pe/31.md)|[✓](pe/31.py)|
+|32  |Pandigital Products|[📄](pe/32.md)|[✓](pe/32.py)|
 |33  |Digit Cancelling Fractions|[📄](pe/33.md)|[✓](pe/33.py)|
 |34  |Digit Factorials|[📄](pe/34.md)|[✓](pe/34.py)|
 |35  |Circular Primes|[📄](pe/35.md)|[✓](pe/35.py)|
