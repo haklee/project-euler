@@ -70,6 +70,7 @@
 |67  |Maximum Path Sum II|[📄](pe/67.md)|[✓](pe/67.py)|
 |76  |Counting Summations|[📄](pe/76.md)|[✓](pe/76.py)|
 |79  |Passcode Derivation|[📄](pe/79.md)|[✓](pe/79.py)|
+|81  |Path Sum: Two Ways|[📄](pe/81.md)|[✓](pe/81.py)|
 |85  |Counting Rectangles|[📄](pe/85.md)|[✓](pe/85.py)|
 |92  |Square Digit Chains|[📄](pe/92.md)|[✓](pe/92.py)|
 |97  |Large Non-Mersenne Prime|[📄](pe/97.md)|[✓](pe/97.py)|
