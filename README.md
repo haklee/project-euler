@@ -69,6 +69,7 @@
 |62  |Permuted Multiples|[📄](pe/62.md)|[✓](pe/62.py)|
 |63  |Powerful Digit Counts|[📄](pe/63.md)|[✓](pe/63.py)|
 |67  |Maximum Path Sum II|[📄](pe/67.md)|[✓](pe/67.py)|
+|71  |Ordered Fractions|[📄](pe/71.md)|[✓](pe/71.py)|
 |76  |Counting Summations|[📄](pe/76.md)|[✓](pe/76.py)|
 |79  |Passcode Derivation|[📄](pe/79.md)|[✓](pe/79.py)|
 |81  |Path Sum: Two Ways|[📄](pe/81.md)|[✓](pe/81.py)|
