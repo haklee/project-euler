@@ -71,6 +71,7 @@
 |65  |Convergents of e|[📄](pe/65.md)|[✓](pe/65.py)|
 |67  |Maximum Path Sum II|[📄](pe/67.md)|[✓](pe/67.py)|
 |71  |Ordered Fractions|[📄](pe/71.md)|[✓](pe/71.py)|
+|74  |Digit Factorial Chains|[📄](pe/74.md)|[✓](pe/74.py)|
 |76  |Counting Summations|[📄](pe/76.md)|[✓](pe/76.py)|
 |79  |Passcode Derivation|[📄](pe/79.md)|[✓](pe/79.py)|
 |81  |Path Sum: Two Ways|[📄](pe/81.md)|[✓](pe/81.py)|
