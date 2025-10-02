@@ -55,6 +55,7 @@
 |41  |Pandigital Prime|[📄](pe/41.md)|[✓](pe/41.py)|
 |42  |Coded Triangle Numbers|[📄](pe/42.md)|[✓](pe/42.py)|
 |43  |Sub-string Divisibility|[📄](pe/43.md)|[✓](pe/43.py)|
+|44  |Pentagon Numbers|[📄](pe/44.md)|[✓](pe/44.py)|
 |45  |Triangular, Pentagonal, and Hexagonal|[📄](pe/45.md)|[✓](pe/45.py)|
 |47  |Distinct Primes Factors|[📄](pe/47.md)|[✓](pe/47.py)|
 |48  |Self Powers|[📄](pe/48.md)|[✓](pe/48.py)|
