@@ -58,6 +58,7 @@
 |45  |Triangular, Pentagonal, and Hexagonal|[📄](pe/45.md)|[✓](pe/45.py)|
 |47  |Distinct Primes Factors|[📄](pe/47.md)|[✓](pe/47.py)|
 |48  |Self Powers|[📄](pe/48.md)|[✓](pe/48.py)|
+|50  |Consecutive Prime Sum|[📄](pe/50.md)|[✓](pe/50.py)|
 |52  |Permuted Multiples|[📄](pe/52.md)|[✓](pe/52.py)|
 |53  |Combinatoric Selections|[📄](pe/53.md)|[✓](pe/53.py)|
 |55  |Lychrel Numbers|[📄](pe/55.md)|[✓](pe/55.py)|
