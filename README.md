@@ -84,5 +84,6 @@
 |116 |Red, Green or Blue Tiles|[📄](pe/116.md)|[✓](pe/116.py)|
 |117 |Red, Green and Blue Tiles|[📄](pe/117.md)|[✓](pe/117.py)|
 |179 |Consecutive Positive Divisors|[📄](pe/179.md)|[✓](pe/179.py)|
+|205 |Dice Game|[📄](pe/205.md)|[✓](pe/205.py)|
 |206 |Concealed Square|[📄](pe/206.md)|[✓](pe/206.py)|
 |686 |Powers of Two|[📄](pe/686.md)|[✓](pe/686.py)|
