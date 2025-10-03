@@ -57,6 +57,7 @@
 |43  |Sub-string Divisibility|[📄](pe/43.md)|[✓](pe/43.py)|
 |44  |Pentagon Numbers|[📄](pe/44.md)|[✓](pe/44.py)|
 |45  |Triangular, Pentagonal, and Hexagonal|[📄](pe/45.md)|[✓](pe/45.py)|
+|46  |Goldbach's Other Conjecture|[📄](pe/46.md)|[✓](pe/46.py)|
 |47  |Distinct Primes Factors|[📄](pe/47.md)|[✓](pe/47.py)|
 |48  |Self Powers|[📄](pe/48.md)|[✓](pe/48.py)|
 |49  |Prime Permutations|[📄](pe/49.md)|[✓](pe/49.py)|
