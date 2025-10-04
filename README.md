@@ -96,3 +96,4 @@
 |206 |Concealed Square|[📄](pe/206.md)|[✓](pe/206.py)|
 |587 |Concave Triangle|[📄](pe/587.md)|[✓](pe/587.py)|
 |686 |Powers of Two|[📄](pe/686.md)|[✓](pe/686.py)|
+|808 |Reversible Prime Squares|[📄](pe/808.md)|[✓](pe/808.py)|
