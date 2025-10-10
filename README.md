@@ -75,6 +75,7 @@
 |67  |Maximum Path Sum II|[📄](pe/67.md)|[✓](pe/67.py)|
 |69  |Totient Maximum|[📄](pe/69.md)|[✓](pe/69.py)|
 |71  |Ordered Fractions|[📄](pe/71.md)|[✓](pe/71.py)|
+|73  |Counting Fractions in a Range|[📄](pe/73.md)|[✓](pe/73.py)|
 |74  |Digit Factorial Chains|[📄](pe/74.md)|[✓](pe/74.py)|
 |76  |Counting Summations|[📄](pe/76.md)|[✓](pe/76.py)|
 |79  |Passcode Derivation|[📄](pe/79.md)|[✓](pe/79.py)|
