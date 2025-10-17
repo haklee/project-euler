@@ -94,6 +94,7 @@
 |117 |Red, Green and Blue Tiles|[📄](pe/117.md)|[✓](pe/117.py)|
 |145 |Reversible Numbers|[📄](pe/145.md)|[✓](pe/145.py)|
 |151 |A Preference for A5|[📄](pe/151.md)|[✓](pe/151.py)|
+|173 |Hollow Square Laminae I|[📄](pe/173.md)|[✓](pe/173.py)|
 |179 |Consecutive Positive Divisors|[📄](pe/179.md)|[✓](pe/179.py)|
 |205 |Dice Game|[📄](pe/205.md)|[✓](pe/205.py)|
 |206 |Concealed Square|[📄](pe/206.md)|[✓](pe/206.py)|
