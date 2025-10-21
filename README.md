@@ -90,6 +90,7 @@
 |100 |Arranged Probability|[📄](pe/100.md)|[✓](pe/100.py)|
 |102 |Triangle Containment|[📄](pe/102.md)|[✓](pe/102.py)|
 |104 |Pandigital Fibonacci Ends|[📄](pe/104.md)|[✓](pe/104.py)|
+|107 |Minimal Network|[📄](pe/107.md)|[✓](pe/107.py)|
 |112 |Bouncy Numbers|[📄](pe/112.md)|[✓](pe/112.py)|
 |116 |Red, Green or Blue Tiles|[📄](pe/116.md)|[✓](pe/116.py)|
 |117 |Red, Green and Blue Tiles|[📄](pe/117.md)|[✓](pe/117.py)|
