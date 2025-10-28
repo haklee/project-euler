@@ -79,6 +79,7 @@
 |74  |Digit Factorial Chains|[📄](pe/74.md)|[✓](pe/74.py)|
 |76  |Counting Summations|[📄](pe/76.md)|[✓](pe/76.py)|
 |79  |Passcode Derivation|[📄](pe/79.md)|[✓](pe/79.py)|
+|80  |Square Root Digital Expansion|[📄](pe/80.md)|[✓](pe/80.py)|
 |81  |Path Sum: Two Ways|[📄](pe/81.md)|[✓](pe/81.py)|
 |85  |Counting Rectangles|[📄](pe/85.md)|[✓](pe/85.py)|
 |87  |Prime Power Triples|[📄](pe/87.md)|[✓](pe/87.py)|
