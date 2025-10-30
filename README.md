@@ -81,6 +81,8 @@
 |79  |Passcode Derivation|[📄](pe/79.md)|[✓](pe/79.py)|
 |80  |Square Root Digital Expansion|[📄](pe/80.md)|[✓](pe/80.py)|
 |81  |Path Sum: Two Ways|[📄](pe/81.md)|[✓](pe/81.py)|
+|82  |Path Sum: Three Ways|[📄](pe/82.md)|[✓](pe/82.py)|
+|83  |Path Sum: Four Ways|[📄](pe/83.md)|[✓](pe/83.py)|
 |85  |Counting Rectangles|[📄](pe/85.md)|[✓](pe/85.py)|
 |87  |Prime Power Triples|[📄](pe/87.md)|[✓](pe/87.py)|
 |89  |Roman Numerals|[📄](pe/89.md)|[✓](pe/89.py)|
