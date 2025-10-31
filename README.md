@@ -108,3 +108,4 @@
 |686 |Powers of Two|[📄](pe/686.md)|[✓](pe/686.py)|
 |808 |Reversible Prime Squares|[📄](pe/808.md)|[✓](pe/808.py)|
 |836 |A Bold Proposition|[📄](pe/836.md)||
+|944 |Sum of Elevisors|[📄](pe/944.md)|[✓](pe/944.py)|
