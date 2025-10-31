@@ -84,6 +84,7 @@
 |82  |Path Sum: Three Ways|[📄](pe/82.md)|[✓](pe/82.py)|
 |83  |Path Sum: Four Ways|[📄](pe/83.md)|[✓](pe/83.py)|
 |85  |Counting Rectangles|[📄](pe/85.md)|[✓](pe/85.py)|
+|86  |Cuboid Route|[📄](pe/86.md)|[✓](pe/86.py)|
 |87  |Prime Power Triples|[📄](pe/87.md)|[✓](pe/87.py)|
 |89  |Roman Numerals|[📄](pe/89.md)|[✓](pe/89.py)|
 |90  |Cube Digit Pairs|[📄](pe/90.md)|[✓](pe/90.py)|
