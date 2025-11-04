@@ -73,6 +73,7 @@
 |63  |Powerful Digit Counts|[📄](pe/63.md)|[✓](pe/63.py)|
 |65  |Convergents of e|[📄](pe/65.md)|[✓](pe/65.py)|
 |67  |Maximum Path Sum II|[📄](pe/67.md)|[✓](pe/67.py)|
+|68  |Magic 5-gon Ring|[📄](pe/68.md)|[✓](pe/68.py)|
 |69  |Totient Maximum|[📄](pe/69.md)|[✓](pe/69.py)|
 |71  |Ordered Fractions|[📄](pe/71.md)|[✓](pe/71.py)|
 |73  |Counting Fractions in a Range|[📄](pe/73.md)|[✓](pe/73.py)|
