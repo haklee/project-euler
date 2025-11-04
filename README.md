@@ -107,6 +107,7 @@
 |179 |Consecutive Positive Divisors|[📄](pe/179.md)|[✓](pe/179.py)|
 |205 |Dice Game|[📄](pe/205.md)|[✓](pe/205.py)|
 |206 |Concealed Square|[📄](pe/206.md)|[✓](pe/206.py)|
+|504 |Square on the Inside|[📄](pe/504.md)|[✓](pe/504.py)|
 |587 |Concave Triangle|[📄](pe/587.md)|[✓](pe/587.py)|
 |686 |Powers of Two|[📄](pe/686.md)|[✓](pe/686.py)|
 |808 |Reversible Prime Squares|[📄](pe/808.md)|[✓](pe/808.py)|
