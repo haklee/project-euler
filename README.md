@@ -101,6 +101,7 @@
 |87  |Prime Power Triples|[📄](pe/87.md)|[✓](pe/87.py)|
 |89  |Roman Numerals|[📄](pe/89.md)|[✓](pe/89.py)|
 |90  |Cube Digit Pairs|[📄](pe/90.md)|[✓](pe/90.py)|
+|91  |Right Triangles with Integer Coordinates|[📄](pe/91.md)|[✓](pe/91.py)|
 |92  |Square Digit Chains|[📄](pe/92.md)|[✓](pe/92.py)|
 |96  |Su Doku|[📄](pe/96.md)|[✓](pe/96.py)|
 |97  |Large Non-Mersenne Prime|[📄](pe/97.md)|[✓](pe/97.py)|
