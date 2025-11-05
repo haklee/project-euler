@@ -64,6 +64,7 @@
 |50  |Consecutive Prime Sum|[📄](pe/50.md)|[✓](pe/50.py)|
 |52  |Permuted Multiples|[📄](pe/52.md)|[✓](pe/52.py)|
 |53  |Combinatoric Selections|[📄](pe/53.md)|[✓](pe/53.py)|
+|54  |Poker Hands|[📄](pe/54.md)|[✓](pe/54.py)|
 |55  |Lychrel Numbers|[📄](pe/55.md)|[✓](pe/55.py)|
 |56  |Powerful Digit Sum|[📄](pe/56.md)|[✓](pe/56.py)|
 |57  |Square Root Convergents|[📄](pe/57.md)|[✓](pe/57.py)|
