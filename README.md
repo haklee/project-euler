@@ -10,6 +10,16 @@
 
 ![correct](https://projecteuler.net/images/clipart/answer_correct.png)
 
+### featured
+
+| #  | Name | + | Explanation | py |
+|----|------|---|-------------|----|
+|bonus|root13|Fisrt bonus problem solved!|[📄](pe/root13.md)|[✓](pe/root13.py)|
+|944 |Sum of Elevisors|724th user to solve!|[📄](pe/944.md)|[✓](pe/944.py)|
+|151 |A Preference for A5|Difficulty: 50%|[📄](pe/151.md)|[✓](pe/151.py)|
+
+### all problems (without bonus)
+
 | #  | Name | Explanation | py |
 |----|------|-------------|----|
 |1   |Multiples of 3 or 5|[📄](pe/1.md)|[✓](pe/1.py)|
