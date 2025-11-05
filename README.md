@@ -82,6 +82,7 @@
 |59  |XOR Decryption|[📄](pe/59.md)|[✓](pe/59.py)|
 |62  |Permuted Multiples|[📄](pe/62.md)|[✓](pe/62.py)|
 |63  |Powerful Digit Counts|[📄](pe/63.md)|[✓](pe/63.py)|
+|64  |Odd Period Square Roots|[📄](pe/64.md)|[✓](pe/64.py)|
 |65  |Convergents of e|[📄](pe/65.md)|[✓](pe/65.py)|
 |67  |Maximum Path Sum II|[📄](pe/67.md)|[✓](pe/67.py)|
 |68  |Magic 5-gon Ring|[📄](pe/68.md)|[✓](pe/68.py)|
