@@ -115,6 +115,7 @@
 |112 |Bouncy Numbers|[📄](pe/112.md)|[✓](pe/112.py)|
 |116 |Red, Green or Blue Tiles|[📄](pe/116.md)|[✓](pe/116.py)|
 |117 |Red, Green and Blue Tiles|[📄](pe/117.md)|[✓](pe/117.py)|
+|124 |Ordered Radicals|[📄](pe/124.md)|[✓](pe/124.py)|
 |125 |Palindromic Sums|[📄](pe/125.md)|[✓](pe/125.py)|
 |145 |Reversible Numbers|[📄](pe/145.md)|[✓](pe/145.py)|
 |151 |A Preference for A5|[📄](pe/151.md)|[✓](pe/151.py)|
