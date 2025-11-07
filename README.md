@@ -17,6 +17,7 @@
 |bonus|root13|Fisrt bonus problem solved!|[📄](pe/root13.md)|[✓](pe/root13.py)|
 |944 |Sum of Elevisors|724th user to solve!|[📄](pe/944.md)|[✓](pe/944.py)|
 |151 |A Preference for A5|Difficulty: 50%|[📄](pe/151.md)|[✓](pe/151.py)|
+|165 |Intersections|Difficulty: 65%|[📄](pe/165.md)|[✓](pe/165.py)|
 
 ### all problems (without bonus)
 
@@ -117,6 +118,7 @@
 |125 |Palindromic Sums|[📄](pe/125.md)|[✓](pe/125.py)|
 |145 |Reversible Numbers|[📄](pe/145.md)|[✓](pe/145.py)|
 |151 |A Preference for A5|[📄](pe/151.md)|[✓](pe/151.py)|
+|165 |Intersections|[📄](pe/165.md)|[✓](pe/165.py)|
 |173 |Hollow Square Laminae I|[📄](pe/173.md)|[✓](pe/173.py)|
 |179 |Consecutive Positive Divisors|[📄](pe/179.md)|[✓](pe/179.py)|
 |205 |Dice Game|[📄](pe/205.md)|[✓](pe/205.py)|
