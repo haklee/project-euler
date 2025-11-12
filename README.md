@@ -73,6 +73,7 @@
 |48  |Self Powers|[📄](pe/48.md)|[✓](pe/48.py)|
 |49  |Prime Permutations|[📄](pe/49.md)|[✓](pe/49.py)|
 |50  |Consecutive Prime Sum|[📄](pe/50.md)|[✓](pe/50.py)|
+|51  |Prime Digit Replacements|[📄](pe/51.md)|[✓](pe/51.py)|
 |52  |Permuted Multiples|[📄](pe/52.md)|[✓](pe/52.py)|
 |53  |Combinatoric Selections|[📄](pe/53.md)|[✓](pe/53.py)|
 |54  |Poker Hands|[📄](pe/54.md)|[✓](pe/54.py)|
