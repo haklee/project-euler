@@ -82,6 +82,7 @@
 |57  |Square Root Convergents|[📄](pe/57.md)|[✓](pe/57.py)|
 |58  |Spiral Primes|[📄](pe/58.md)|[✓](pe/58.py)|
 |59  |XOR Decryption|[📄](pe/59.md)|[✓](pe/59.py)|
+|60  |Prime Pair Sets|[📄](pe/60.md)|[✓](pe/60.py)|
 |61  |Cyclical Figurate Numbers|[📄](pe/61.md)|[✓](pe/61.py)|
 |62  |Permuted Multiples|[📄](pe/62.md)|[✓](pe/62.py)|
 |63  |Powerful Digit Counts|[📄](pe/63.md)|[✓](pe/63.py)|
