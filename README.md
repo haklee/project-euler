@@ -111,6 +111,7 @@
 |92  |Square Digit Chains|[📄](pe/92.md)|[✓](pe/92.py)|
 |96  |Su Doku|[📄](pe/96.md)|[✓](pe/96.py)|
 |97  |Large Non-Mersenne Prime|[📄](pe/97.md)|[✓](pe/97.py)|
+|98  |Anagramic Squares|[📄](pe/98.md)|[✓](pe/98.py)|
 |99  |Largest Exponential|[📄](pe/99.md)|[✓](pe/99.py)|
 |100 |Arranged Probability|[📄](pe/100.md)|[✓](pe/100.py)|
 |102 |Triangle Containment|[📄](pe/102.md)|[✓](pe/102.py)|
