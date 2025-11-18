@@ -91,6 +91,7 @@
 |67  |Maximum Path Sum II|[📄](pe/67.md)|[✓](pe/67.py)|
 |68  |Magic 5-gon Ring|[📄](pe/68.md)|[✓](pe/68.py)|
 |69  |Totient Maximum|[📄](pe/69.md)|[✓](pe/69.py)|
+|70  |Totient Permutation|[📄](pe/70.md)|[✓](pe/70.py)|
 |71  |Ordered Fractions|[📄](pe/71.md)|[✓](pe/71.py)|
 |72  |Counting Fractions|[📄](pe/72.md)|[✓](pe/72.py)|
 |73  |Counting Fractions in a Range|[📄](pe/73.md)|[✓](pe/73.py)|
