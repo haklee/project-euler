@@ -92,6 +92,7 @@
 |68  |Magic 5-gon Ring|[📄](pe/68.md)|[✓](pe/68.py)|
 |69  |Totient Maximum|[📄](pe/69.md)|[✓](pe/69.py)|
 |71  |Ordered Fractions|[📄](pe/71.md)|[✓](pe/71.py)|
+|72  |Counting Fractions|[📄](pe/72.md)|[✓](pe/72.py)|
 |73  |Counting Fractions in a Range|[📄](pe/73.md)|[✓](pe/73.py)|
 |74  |Digit Factorial Chains|[📄](pe/74.md)|[✓](pe/74.py)|
 |76  |Counting Summations|[📄](pe/76.md)|[✓](pe/76.py)|
