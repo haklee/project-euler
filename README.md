@@ -122,6 +122,7 @@
 |112 |Bouncy Numbers|[📄](pe/112.md)|[✓](pe/112.py)|
 |116 |Red, Green or Blue Tiles|[📄](pe/116.md)|[✓](pe/116.py)|
 |117 |Red, Green and Blue Tiles|[📄](pe/117.md)|[✓](pe/117.py)|
+|119 |Digit Power Sum|[📄](pe/119.md)|[✓](pe/119.py)|
 |120 |Square Remainders|[📄](pe/120.md)|[✓](pe/120.py)|
 |121 |Disc Game Prize Fund|[📄](pe/121.md)|[✓](pe/121.py)|
 |123 |Prime Square Remainders|[📄](pe/123.md)|[✓](pe/123.py)|
