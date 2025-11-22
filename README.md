@@ -140,6 +140,7 @@
 |205 |Dice Game|[📄](pe/205.md)|[✓](pe/205.py)|
 |206 |Concealed Square|[📄](pe/206.md)|[✓](pe/206.py)|
 |301 |Nim|[📄](pe/301.md)|[✓](pe/301.py)|
+|345 |Matrix Sum|[📄](pe/345.md)|[✓](pe/345.py)|
 |347 |Largest Integer Divisible by Two Primes|[📄](pe/347.md)|[✓](pe/347.py)|
 |504 |Square on the Inside|[📄](pe/504.md)|[✓](pe/504.py)|
 |587 |Concave Triangle|[📄](pe/587.md)|[✓](pe/587.py)|
