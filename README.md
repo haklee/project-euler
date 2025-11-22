@@ -128,6 +128,7 @@
 |123 |Prime Square Remainders|[📄](pe/123.md)|[✓](pe/123.py)|
 |124 |Ordered Radicals|[📄](pe/124.md)|[✓](pe/124.py)|
 |125 |Palindromic Sums|[📄](pe/125.md)|[✓](pe/125.py)|
+|126 |Cuboid Layers|[📄](pe/126.md)|[✓](pe/126.py)|
 |145 |Reversible Numbers|[📄](pe/145.md)|[✓](pe/145.py)|
 |149 |Maximum-sum Subsequence|[📄](pe/149.md)|[✓](pe/149.py)|
 |151 |A Preference for A5|[📄](pe/151.md)|[✓](pe/151.py)|
