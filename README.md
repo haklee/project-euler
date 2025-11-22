@@ -1,16 +1,16 @@
-# project-euler
+# Project Euler
 
-## profile
+## Profile
 
 ![pe-badge](https://projecteuler.net/profile/haklee.png)
 
 - Add me to your friends list with: `2256332_m1HNj1ALZBWdJzzk2iNgHrQr4cnr7A0c`
 
-## progress
+## Progress
 
 ![correct](https://projecteuler.net/images/clipart/answer_correct.png)
 
-### featured
+### Featured
 
 | #  | Name | + | Explanation | py |
 |----|------|---|-------------|----|
@@ -18,8 +18,9 @@
 |944 |Sum of Elevisors|724th user to solve!|[📄](pe/944.md)|[✓](pe/944.py)|
 |151 |A Preference for A5|Difficulty: 50%|[📄](pe/151.md)|[✓](pe/151.py)|
 |165 |Intersections|Difficulty: 65%|[📄](pe/165.md)|[✓](pe/165.py)|
+|126 |Cuboid Layers|Difficulty: 55%, using heapq.|[📄](pe/126.md)|[✓](pe/126.py)|
 
-### all problems (without bonus)
+### All problems (without bonus)
 
 | #  | Name | Explanation | py |
 |----|------|-------------|----|
