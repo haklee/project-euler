@@ -140,6 +140,7 @@
 |203 |Squarefree Binomial Coefficients|[📄](pe/203.md)|[✓](pe/203.py)|
 |205 |Dice Game|[📄](pe/205.md)|[✓](pe/205.py)|
 |206 |Concealed Square|[📄](pe/206.md)|[✓](pe/206.py)|
+|215 |Crack-free Walls|[📄](pe/215.md)|[✓](pe/215.py)|
 |243 |Resilience|[📄](pe/243.md)|[✓](pe/243.py)|
 |301 |Nim|[📄](pe/301.md)|[✓](pe/301.py)|
 |345 |Matrix Sum|[📄](pe/345.md)|[✓](pe/345.py)|
