@@ -121,6 +121,7 @@
 |104 |Pandigital Fibonacci Ends|[📄](pe/104.md)|[✓](pe/104.py)|
 |107 |Minimal Network|[📄](pe/107.md)|[✓](pe/107.py)|
 |112 |Bouncy Numbers|[📄](pe/112.md)|[✓](pe/112.py)|
+|113 |Non-bouncy Numbers|[📄](pe/113.md)|[✓](pe/113.py)|
 |116 |Red, Green or Blue Tiles|[📄](pe/116.md)|[✓](pe/116.py)|
 |117 |Red, Green and Blue Tiles|[📄](pe/117.md)|[✓](pe/117.py)|
 |119 |Digit Power Sum|[📄](pe/119.md)|[✓](pe/119.py)|
