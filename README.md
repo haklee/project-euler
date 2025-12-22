@@ -149,6 +149,7 @@
 |301 |Nim|[📄](pe/301.md)|[✓](pe/301.py)|
 |345 |Matrix Sum|[📄](pe/345.md)|[✓](pe/345.py)|
 |347 |Largest Integer Divisible by Two Primes|[📄](pe/347.md)|[✓](pe/347.py)|
+|381 |(prime - k) Factorial|[📄](pe/381.md)|[✓](pe/381.py)|
 |504 |Square on the Inside|[📄](pe/504.md)|[✓](pe/504.py)|
 |587 |Concave Triangle|[📄](pe/587.md)|[✓](pe/587.py)|
 |686 |Powers of Two|[📄](pe/686.md)|[✓](pe/686.py)|
