@@ -147,6 +147,7 @@
 |235 |An Arithmetic Geometric Sequence|[📄](pe/235.md)|[✓](pe/235.py)|
 |243 |Resilience|[📄](pe/243.md)|[✓](pe/243.py)|
 |301 |Nim|[📄](pe/301.md)|[✓](pe/301.py)|
+|315 |Digital Root Clocks|[📄](pe/315.md)|[✓](pe/315.py)|
 |345 |Matrix Sum|[📄](pe/345.md)|[✓](pe/345.py)|
 |347 |Largest Integer Divisible by Two Primes|[📄](pe/347.md)|[✓](pe/347.py)|
 |381 |(prime - k) Factorial|[📄](pe/381.md)|[✓](pe/381.py)|
