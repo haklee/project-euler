@@ -139,6 +139,7 @@
 |174 |Hollow Square Laminae II|[📄](pe/174.md)|[✓](pe/174.py)|
 |179 |Consecutive Positive Divisors|[📄](pe/179.md)|[✓](pe/179.py)|
 |183 |Maximum Product of Parts|[📄](pe/183.md)|[✓](pe/183.py)|
+|188 |Hyperexponentiation|[📄](pe/188.md)|[✓](pe/188.py)
 |203 |Squarefree Binomial Coefficients|[📄](pe/203.md)|[✓](pe/203.py)|
 |204 |Generalised Hamming Numbers|[📄](pe/204.md)|[✓](pe/204.py)|
 |205 |Dice Game|[📄](pe/205.md)|[✓](pe/205.py)|
