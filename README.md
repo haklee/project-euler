@@ -151,6 +151,7 @@
 |315 |Digital Root Clocks|[📄](pe/315.md)|[✓](pe/315.py)|
 |345 |Matrix Sum|[📄](pe/345.md)|[✓](pe/345.py)|
 |347 |Largest Integer Divisible by Two Primes|[📄](pe/347.md)|[✓](pe/347.py)|
+|349 |Langton's Ant|[📄](pe/349.md)|[✓](pe/349.py)|
 |381 |(prime - k) Factorial|[📄](pe/381.md)|[✓](pe/381.py)|
 |387 |Harshad Numbers|[📄](pe/387.md)|[✓](pe/387.py)|
 |504 |Square on the Inside|[📄](pe/504.md)|[✓](pe/504.py)|
