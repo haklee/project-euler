@@ -15,6 +15,7 @@
 | #  | Name | + | Explanation | py |
 |----|------|---|-------------|----|
 |bonus|root13|Fisrt bonus problem solved!|[📄](pe/root13.md)|[✓](pe/root13.py)|
+|bonus|-1|Second bonus problem solved!|[📄](pe/-1.md)||
 |944 |Sum of Elevisors|724th user to solve!|[📄](pe/944.md)|[✓](pe/944.py)|
 |151 |A Preference for A5|Difficulty: 50%|[📄](pe/151.md)|[✓](pe/151.py)|
 |165 |Intersections|Difficulty: 65%|[📄](pe/165.md)|[✓](pe/165.py)|
