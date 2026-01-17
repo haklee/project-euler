@@ -163,4 +163,5 @@
 |808 |Reversible Prime Squares|[📄](pe/808.md)|[✓](pe/808.py)|
 |816 |Shortest Distance Among Points|[📄](pe/816.md)|[✓](pe/816.py)|
 |836 |A Bold Proposition|[📄](pe/836.md)||
+|932 |2025|[📄](pe/932.md)|[✓](pe/932.py)|
 |944 |Sum of Elevisors|[📄](pe/944.md)|[✓](pe/944.py)|
