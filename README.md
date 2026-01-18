@@ -17,6 +17,7 @@
 |bonus|root13|Fisrt bonus problem solved!|[📄](pe/root13.md)|[✓](pe/root13.py)|
 |bonus|-1|Second bonus problem solved!|[📄](pe/-1.md)||
 |944 |Sum of Elevisors|724th user to solve!|[📄](pe/944.md)|[✓](pe/944.py)|
+|869 |Shortest Distance Among Points|853rd user to solve!|[📄](pe/869.md)|[✓](pe/869.py)|
 |151 |A Preference for A5|Difficulty: 50%|[📄](pe/151.md)|[✓](pe/151.py)|
 |165 |Intersections|Difficulty: 65%|[📄](pe/165.md)|[✓](pe/165.py)|
 |126 |Cuboid Layers|Difficulty: 55%, using heapq.|[📄](pe/126.md)|[✓](pe/126.py)|
@@ -163,5 +164,6 @@
 |808 |Reversible Prime Squares|[📄](pe/808.md)|[✓](pe/808.py)|
 |816 |Shortest Distance Among Points|[📄](pe/816.md)|[✓](pe/816.py)|
 |836 |A Bold Proposition|[📄](pe/836.md)||
+|869 |Shortest Distance Among Points|[📄](pe/869.md)|[✓](pe/869.py)|
 |932 |2025|[📄](pe/932.md)|[✓](pe/932.py)|
 |944 |Sum of Elevisors|[📄](pe/944.md)|[✓](pe/944.py)|
