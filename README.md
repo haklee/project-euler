@@ -165,5 +165,6 @@
 |816 |Shortest Distance Among Points|[📄](pe/816.md)|[✓](pe/816.py)|
 |836 |A Bold Proposition|[📄](pe/836.md)||
 |869 |Shortest Distance Among Points|[📄](pe/869.md)|[✓](pe/869.py)|
+|872 |Recursive Tree|[📄](pe/872.md)|[✓](pe/872.py)|
 |932 |2025|[📄](pe/932.md)|[✓](pe/932.py)|
 |944 |Sum of Elevisors|[📄](pe/944.md)|[✓](pe/944.py)|
