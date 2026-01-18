@@ -161,6 +161,7 @@
 |686 |Powers of Two|[📄](pe/686.md)|[✓](pe/686.py)|
 |719 |Number Splitting|[📄](pe/719.md)|[✓](pe/719.py)|
 |751 |Concatenation Coincidence|[📄](pe/751.md)|[✓](pe/751.py)|
+|800 |Hybrid Integers|[📄](pe/800.md)|[✓](pe/800.py)|
 |808 |Reversible Prime Squares|[📄](pe/808.md)|[✓](pe/808.py)|
 |816 |Shortest Distance Among Points|[📄](pe/816.md)|[✓](pe/816.py)|
 |836 |A Bold Proposition|[📄](pe/836.md)||
