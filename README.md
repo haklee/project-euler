@@ -18,9 +18,10 @@
 |bonus|-1|Second bonus problem solved!|[📄](pe/-1.md)||
 |944 |Sum of Elevisors|724th user to solve!|[📄](pe/944.md)|[✓](pe/944.py)|
 |869 |Shortest Distance Among Points|853rd user to solve!|[📄](pe/869.md)|[✓](pe/869.py)|
-|151 |A Preference for A5|Difficulty: 50%|[📄](pe/151.md)|[✓](pe/151.py)|
-|165 |Intersections|Difficulty: 65%|[📄](pe/165.md)|[✓](pe/165.py)|
-|126 |Cuboid Layers|Difficulty: 55%, using heapq.|[📄](pe/126.md)|[✓](pe/126.py)|
+|151 |A Preference for A5|Lv 20 (Former Difficulty: 50%)|[📄](pe/151.md)|[✓](pe/151.py)|
+|165 |Intersections|Lv 26 (Former Difficulty: 65%)|[📄](pe/165.md)|[✓](pe/165.py)|
+|126 |Cuboid Layers|Lv 17 (Former Difficulty: 55%), using heapq.|[📄](pe/126.md)|[✓](pe/126.py)|
+|149 |Maximum-sum Subsequence|Lv 17|[📄](pe/149.md)|[✓](pe/149.py)|
 
 
 ### All problems (without bonus)
