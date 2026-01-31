@@ -155,6 +155,7 @@
 |315 |Digital Root Clocks|[📄](pe/315.md)|[✓](pe/315.py)|
 |345 |Matrix Sum|[📄](pe/345.md)|[✓](pe/345.py)|
 |347 |Largest Integer Divisible by Two Primes|[📄](pe/347.md)|[✓](pe/347.py)|
+|348 |Sum of a Square and a Cube|[📄](pe/348.md)|[✓](pe/348.py)|
 |349 |Langton's Ant|[📄](pe/349.md)|[✓](pe/349.py)|
 |381 |(prime - k) Factorial|[📄](pe/381.md)|[✓](pe/381.py)|
 |387 |Harshad Numbers|[📄](pe/387.md)|[✓](pe/387.py)|
@@ -168,7 +169,7 @@
 |808 |Reversible Prime Squares|[📄](pe/808.md)|[✓](pe/808.py)|
 |816 |Shortest Distance Among Points|[📄](pe/816.md)|[✓](pe/816.py)|
 |836 |A Bold Proposition|[📄](pe/836.md)||
-|869 |Shortest Distance Among Points|[📄](pe/869.md)|[✓](pe/869.py)|
+|869 |Prime Guessing|[📄](pe/869.md)|[✓](pe/869.py)|
 |872 |Recursive Tree|[📄](pe/872.md)|[✓](pe/872.py)|
 |932 |2025|[📄](pe/932.md)|[✓](pe/932.py)|
 |944 |Sum of Elevisors|[📄](pe/944.md)|[✓](pe/944.py)|
